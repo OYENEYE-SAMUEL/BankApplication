@@ -1,0 +1,4 @@
+C:\Users\USER\Desktop\BankApp\obj\Debug\net8.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\BankApp\obj\Debug\net8.0\BankApp.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\BankApp\obj\Debug\net8.0\BankApp.AssemblyInfo.cs
+C:\Users\USER\Desktop\BankApp\obj\Debug\net8.0\BankApp.csproj.CoreCompileInputs.cache
